@@ -1,0 +1,6 @@
+com\example\Bex\model\FileDocument.class
+com\example\Bex\service\FileStorageService.class
+com\example\Bex\BexApplication.class
+com\example\Bex\config\BackblazeConfig.class
+com\example\Bex\controller\FileController.class
+com\example\Bex\repository\FileRepository.class
